@@ -1,3 +1,9 @@
+## January 2013 Edit:
+## The program is in the middle of being completely refactored, once it gets into a stable state the new version will
+## be uploaded.
+##
+
+
 Solitaire Player is a Python program that deals and plays multiple games of Klondike Solitaire in order to find a winning strategy for this game.  
 
 It has been written in Python 3.2 using IDLE.
@@ -6,6 +12,6 @@ It's the first program that I wrote completely from scratch, and the style leave
 
 The game currently plays something of a blind MaxiMax strategy:  it always pushes forward, trying to shrink the biggest hidden piles first.  It does not, for example, take into account a king two cards back in the dealt pile that could be placed on the board if a small stack could be eliminated.  
 
-Solitaire Player loses a little over $17 a game currently, which is not bad, but it's not ready yet to buy some new shoes and go to VegasÉ
+Solitaire Player loses a little over $17 a game currently, which is not bad, but it's not ready yet to buy some new shoes and go to Vegasï¿½
 
  
