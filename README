@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+
+February 2013
+
+Solitaire-Player is a program to osearch for a winning solitaire algorithm
+It deals and plays multiple games to find the expected value of each playing
+style.
+
+After a long period of abandonment I've restarted work on it pretty much
+from scratch, moving to Python 2.7.3 from 3.x and more closely following
+the OOP paradigm.
+
+At current it is little more than an incomplete skeleton.
+=======
 ## January 2013 Edit:
 ## The program is in the middle of being completely refactored, once it gets into a stable state the new version will
 ## be uploaded.
@@ -15,3 +29,4 @@ The game currently plays something of a blind MaxiMax strategy:  it always pushe
 Solitaire Player loses a little over $17 a game currently, which is not bad, but it's not ready yet to buy some new shoes and go to Vegas�
 
  
+>>>>>>> 71915ddb65c29dbbb39e6b2db4b7cec224e58af3
